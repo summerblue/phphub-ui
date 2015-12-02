@@ -18,6 +18,8 @@ You can checkout the others open source projects of PHPHub in the following list
 
 ![](http://ww1.sinaimg.cn/large/006fiYtfjw1eyl1ykxvymj31kw0zxqcc.jpg)
 
+![](http://ww2.sinaimg.cn/large/006fiYtfjw1eyl1ykk798j31kw0zx7fs.jpg)
+
 ## 规范
 
 1. 产品规划上, 注意阶段性规划, 快速迭代, 快速提交;
