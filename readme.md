@@ -16,6 +16,8 @@ You can checkout the others open source projects of PHPHub in the following list
 
 此项目里大部分是 Sketch 文件, 使用 Sketch 3.3.2 应用编辑.
 
+![](http://ww1.sinaimg.cn/large/006fiYtfjw1eyl1ykxvymj31kw0zxqcc.jpg)
+
 ## 规范
 
 1. 产品规划上, 注意阶段性规划, 快速迭代, 快速提交;
